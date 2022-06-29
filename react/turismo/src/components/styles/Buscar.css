@@ -1,0 +1,13 @@
+ul{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    
+}
+
+li{
+    color: #ffff;
+    margin: 7px;
+    font-size: 18px;
+    list-style:none;
+}
